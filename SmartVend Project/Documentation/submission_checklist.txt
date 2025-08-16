@@ -1,0 +1,16 @@
+Submission Checklist – SmartVend++ Project
+
+✔ Console menu of drinks and snacks
+✔ Unique product codes for selection
+✔ Handles payments (card + cash)
+✔ Returns correct change
+✔ Informs user about dispensing
+✔ Informs user about change
+✔ Well-commented code (basic UK English)
+✔ Categorises items (Drink, Snack, Hot Drink)
+✔ Allows buying multiple items
+✔ Input validation and error checking
+✔ Suggests purchases (biscuits with coffee)
+✔ External files for items/settings
+✔ Full documentation included
+✔ BONUS: Discount feature, glossary, test plan

@@ -1,0 +1,17 @@
+# SmartVend++ Restock Schedule
+# Format: Item Name       | Restock Amount | Date       | Notes
+
+Item Name       | Amount | Date       | Notes
+----------------|--------|------------|------------------------------------------
+Water           | 40     | 20/09/2025 | Routine top-up
+Fanta           | 32     | 20/09/2025 | Demand increasing during warm weather
+Cola            | 28     | 20/09/2025 | Popular item, restocked regularly
+Black Coffee    | 20     | 20/09/2025 | Office request for morning demand
+White Coffee    | 20     | 20/09/2025 | Matches Black Coffee demand
+Crisps          | 24     | 20/09/2025 | Rotated for freshness
+Chocolate       | 16     | 20/09/2025 | Low melting point, stored carefully
+Biscuits        | 12     | 20/09/2025 | Suggested with hot drinks
+
+# Notes:
+# - Restocking is scheduled monthly or when stock drops below threshold
+# - Keep entries aligned for readability and consistent with future imports

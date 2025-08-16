@@ -1,0 +1,32 @@
+# SmartVend++ – Change Log
+# Format: Date       | Description of Change
+
+Date       | Description of Change
+-----------|----------------------------------------------------------------------
+01/08/2025 | Started initial planning and project structure
+01/08/2025 | Created Product and VendingMachine class structures
+01/08/2025 | Built basic item display and selection logic
+02/08/2025 | Added support for card and cash payment flows
+02/08/2025 | Implemented 10% discount system
+02/08/2025 | Developed suggestion system (coffee triggers biscuits)
+02/08/2025 | Stock reduces after each purchase
+02/08/2025 | Set up error handling for invalid inputs
+03/08/2025 | Added helper methods for validated user input
+03/08/2025 | Designed ReadMe and Developer Documentation
+03/08/2025 | Organised project folder and file structure
+04/08/2025 | Created simulated logs (sales, error, restock)
+04/08/2025 | Wrote up full learning outcomes
+04/08/2025 | Refined prompts and comments to plain UK English
+05/08/2025 | Added markdown support documentation
+05/08/2025 | Aligned sales and error logs with main logic
+05/08/2025 | Formatted restock.txt into professional table
+06/08/2025 | Created design diagram for visual reference
+06/08/2025 | Extended logs to 40 entries for completeness
+06/08/2025 | Applied consistent formatting to all documents
+06/08/2025 | All features tested and validated
+06/08/2025 | Final structure packed and zipped for submission
+
+# Notes:
+# - Dates are simulated for development timeline
+# - Log captures key updates, refactors, and new feature rollouts
+# - Final packaging completed and submission ready

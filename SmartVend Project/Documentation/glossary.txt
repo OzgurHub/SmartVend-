@@ -1,0 +1,33 @@
+Glossary of Key C++ Concepts
+----------------------------------
+
+class:
+A 'class' is like a blueprint for creating custom objects.
+It groups together data (called attributes) and actions (called methods).
+Used to structure and manage related data and behaviour.
+
+Example:
+class Product {
+    // Defines product name, price, and actions like purchase()
+};
+
+public:
+'public' means members (like variables or methods) can be accessed from outside the class.
+This is used when other parts of the program need to use these members.
+
+Example:
+public:
+    string name;
+    void purchase();
+
+vector:
+A 'vector' is a resizable list from the C++ Standard Library.
+It stores collections of elements, such as products in a vending machine.
+It adjusts its size automatically as items are added or removed.
+
+Example:
+vector<Product> items;
+
+Also commonly used headers:
+#include <vector>  // brings in the vector container
+#include <string>  // lets you use words and text (not just numbers)

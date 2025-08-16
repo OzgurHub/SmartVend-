@@ -1,0 +1,39 @@
+# SmartVend++ – Error Log
+# Format: Date       | Error Description
+
+Date       | Error Description
+-----------|---------------------------------------------------------------
+06/08/2025 | Invalid item ID entered (out of range)
+06/08/2025 | Attempted to buy item with 0 stock remaining
+06/08/2025 | User input non-numeric characters for item ID
+06/08/2025 | Card payment failed due to incomplete card number
+06/08/2025 | User chose unsupported payment option
+06/08/2025 | CVV was less than 3 digits
+06/08/2025 | Card number had less than 16 digits
+06/08/2025 | Insufficient cash inserted for selected product
+06/08/2025 | Input buffer not cleared, causing infinite loop
+06/08/2025 | Negative item ID entered by mistake
+06/08/2025 | Biscuits suggested but were out of stock
+06/08/2025 | Discount failed to apply due to value read error
+06/08/2025 | Repeated bad inputs triggered session reset
+06/08/2025 | Card expiry entered in incorrect format
+06/08/2025 | Rapid key entry caused input block
+06/08/2025 | Simulated card payment error during testing
+06/08/2025 | Manual override test caused empty stock list
+06/08/2025 | User attempted to pay with 0.00 cash
+06/08/2025 | Wrong data type entered for payment method
+06/08/2025 | Empty input field submitted by user
+06/08/2025 | Stock update skipped due to manual entry
+06/08/2025 | Typo in item category affected display
+06/08/2025 | System rejected invalid card entry
+06/08/2025 | Change calculation returned imprecise decimal
+06/08/2025 | Sales log write failed due to permission error
+06/08/2025 | Program closed unexpectedly due to EOF input
+06/08/2025 | User exited purchase midway during payment
+06/08/2025 | Suggestion system logic failed for coffee order
+06/08/2025 | Unavailable menu option entered at prompt
+06/08/2025 | Admin feature test triggered unavailable command
+
+# Notes:
+# - Table contains both real and simulated errors from development
+# - All descriptions follow professional and academic writing style

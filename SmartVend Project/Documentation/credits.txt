@@ -1,0 +1,14 @@
+SmartVend++ Credits
+
+Developer: Ozgur Serin
+Institution: Elizabeth School of London – Bath Spa University
+Course: CodeLab 1 (C++)
+Date: August 2025
+
+Tools Used:
+- C++17 with Standard Library
+- Visual Studio Code (or preferred IDE)
+- ChatGPT (for brainstorming, documentation, and code enhancement)
+
+Acknowledgements:
+Thanks to the course tutors and support peers during development.

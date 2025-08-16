@@ -1,0 +1,35 @@
+Learning Outcomes Demonstrated – SmartVend++
+
+Developed by: Ozgur Serin
+
+- Use of console input/output in C++
+- Application of control flow (if, switch, loops)
+- Use of classes and object-oriented design
+- Real-time item and stock management
+- Modular design with helper methods
+- Handling of real user scenarios (error prevention)
+- Payment simulation with input validation
+- Change calculation for cash
+- Conditional suggestions (e.g. biscuits with coffee)
+- 10% discount applied to purchases
+- Use of STL containers like vector
+- Friendly console output using UK English
+- Testing of multiple input paths
+- Logical flow from menu to purchase
+- Stock depletion updates after transactions
+- Structuring a complete project folder
+- Professional commenting of source code
+- Compliance with assessment brief
+- Future-proof structure (placeholders for file I/O)
+- Developer documentation and report preparation
+- Use of markdown and text formats for documentation
+- Awareness of user interaction design
+- Planning before implementation
+- Academic formatting in file structure
+- Clear folder separation and file naming
+- Application of data validation techniques
+- Manual testing and troubleshooting
+- Use of default constructors and methods
+- Basic use of formatting libraries (iomanip)
+- Console-based user interface
+- Demonstrating real-world simulation through code

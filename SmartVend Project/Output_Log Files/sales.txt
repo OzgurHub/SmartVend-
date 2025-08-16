@@ -1,0 +1,27 @@
+# SmartVend++ – Sales Log
+# Format: Date       | Item(s)                          | Price (£) | Payment Method
+
+Date       | Item(s)                          | Price (£) | Payment Method
+-----------|----------------------------------|-----------|----------------
+06/08/2025 | Cola                             | 1.35      | Contactless Card
+06/08/2025 | Black Coffee                     | 1.62      | Cash
+06/08/2025 | Fanta                            | 1.35      | Contactless Card
+06/08/2025 | Chocolate                        | 1.62      | Cash
+06/08/2025 | White Coffee and Biscuits        | 2.97      | Card
+06/08/2025 | Crisps                           | 1.08      | Cash
+06/08/2025 | Water                            | 0.90      | Card
+06/08/2025 | Biscuits (Suggested Item)        | 1.35      | Cash
+06/08/2025 | Cola                             | 1.35      | Card
+06/08/2025 | Water                            | 0.90      | Card
+06/08/2025 | Fanta                            | 1.35      | Cash
+06/08/2025 | Crisps                           | 1.08      | Contactless Card
+06/08/2025 | Chocolate                        | 1.62      | Cash
+06/08/2025 | Cola                             | 1.35      | Card
+06/08/2025 | White Coffee                     | 1.62      | Card
+06/08/2025 | Black Coffee                     | 1.62      | Card
+06/08/2025 | Biscuits                         | 1.35      | Cash
+
+# Notes:
+# - All prices include a 10% discount from the base price
+# - Some purchases include suggested items like biscuits
+# - Table aligns with purchase log format for clarity and reporting

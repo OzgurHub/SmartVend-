@@ -1,0 +1,15 @@
+Test Plan for SmartVend++ Vending Machine
+
+Objective: Ensure all critical functions of the vending machine system work as expected.
+
+Tests Performed:
+- Select a valid item and complete purchase with card
+- Select a valid item and complete purchase with cash
+- Select an out-of-stock item and check for proper warning
+- Enter invalid item ID and verify error handling
+- Input non-numeric characters where numbers are expected
+- Use card with incorrect number length or CVV and observe failure
+- Ensure discount is applied to all items
+- Accept biscuit suggestion with coffee and confirm stock updates
+- Ensure correct change is returned on cash payment
+- Exit program via menu and confirm graceful shutdown

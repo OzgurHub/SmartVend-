@@ -1,0 +1,30 @@
+# SmartVend++ – System Settings
+# Format: Setting Name         | Value            | Description
+
+Setting Name         | Value            | Description
+---------------------|------------------|-----------------------------------------------
+MachineID            | SV1001           | Unique identifier for this machine
+Location             | Main Reception   | Physical location of the vending machine
+CurrencySymbol       | £                | Currency symbol used in display
+EnableDiscount       | true             | Apply discount automatically at checkout
+DiscountRate         | 10               | Percentage discount applied to every item
+EnableSuggestions    | true             | Show extra item suggestions like biscuits
+
+AcceptCash           | true             | Allow payment via coins and notes
+AcceptCard           | true             | Allow payment using contactless card
+MinCardDigits        | 16               | Card number must be 16 digits long
+MinCVVDigits         | 3                | CVV must be 3 digits
+
+LowStockWarningLevel | 3                | Trigger restock notice when stock drops to this
+MaxStockPerItem      | 20               | Maximum stock quantity per product
+
+DecimalPlaces        | 2                | Number of decimal places shown in prices
+MenuRefreshDelay     | 1                | Delay (in seconds) when refreshing the menu
+
+LogSales             | true             | Enable writing to sales log
+LogErrors            | true             | Enable writing to error log
+LogRestocks          | true             | Enable writing to restock log
+
+# Notes:
+# - Settings are defined manually and apply system-wide
+# - Use consistent spacing and formatting for future imports

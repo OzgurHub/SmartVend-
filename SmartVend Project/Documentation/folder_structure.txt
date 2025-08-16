@@ -1,0 +1,20 @@
+Project Folder Structure – SmartVend++
+
+main.cpp               – Core vending machine logic
+items.txt              – List of products with prices and categories
+sales.txt              – Transaction log of successful purchases
+restock.txt            – Manual or automated stock refill records
+setting.txt            – Runtime configuration settings
+error.txt              – Records any incorrect user actions or system issues
+change_log.txt         – Chronological list of changes made
+learning_outcomes.txt  – Table linking tasks to learning objectives
+read.md                – Brief project overview
+devdoc.md              – Professional developer documentation
+LICENSE.txt            – Legal terms for usage
+Design_diagram.png     – Visual diagram showing program flow
+glossary.txt           – C++ terms explained for learning
+test_plan.txt          – What was tested and confirmed working
+user_guide.txt         – Step-by-step instructions for the user
+submission_checklist.txt – Tick-list showing completed brief
+credits.txt            – Project creator and acknowledgements
+folder_structure.txt   – This file: overview of everything in the ZIP

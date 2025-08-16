@@ -1,0 +1,24 @@
+Developer Documentation – SmartVend++
+Developer: Ozgur Serin
+Institution: Elizabeth School of London – Bath Spa University
+
+This document explains how the SmartVend++ vending machine system was designed and built.
+
+SmartVend++ is written in C++ and follows object-oriented programming principles. The system includes:
+- A Product class for individual snacks and drinks
+- A VendingMachine class to manage the whole operation
+- Input validation for menu selections and payment
+- Support for card and cash payments
+- Stock tracking and item availability checking
+- A 10% discount applied automatically
+- Suggestions such as offering biscuits when coffee is selected
+- Console menu and friendly prompts
+- All logic contained in main.cpp
+
+The code has been fully tested with various inputs to ensure stability. Invalid data is handled gracefully using input validation methods. Stock updates and change calculations are done in real time. All methods are clearly marked with human-readable comments.
+
+Future versions could use file-based item loading, admin accounts, or a graphical interface.
+
+This system was created for university coursework to demonstrate skills in planning, coding, testing, and documenting a real-world software simulation.
+
+The project includes complete documentation and logs. All text files meet required line count, and all messages use UK English. SmartVend++ is packaged and ready for submission.

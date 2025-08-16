@@ -1,0 +1,17 @@
+# SmartVend++ Item List
+# Format: ID | Name | Category | Price (£) | Stock
+
+1 | Water          | Drink      | 1.00 | 10
+2 | Fanta          | Drink      | 1.50 | 8
+3 | Cola           | Drink      | 1.50 | 7
+4 | Black Coffee   | Hot Drink  | 1.80 | 5
+5 | White Coffee   | Hot Drink  | 1.80 | 5
+6 | Crisps         | Snack      | 1.20 | 6
+7 | Chocolate      | Snack      | 1.80 | 4
+8 | Biscuits       | Snack      | 1.50 | 3
+
+# Notes:
+# - All items are available for purchase via SmartVend++
+# - Prices include 10% discount at checkout
+# - Stock is updated after each successful purchase
+# - Product IDs correspond to menu order

@@ -1,0 +1,13 @@
+SmartVend++ Vending Machine System
+Copyright (c) 2025 Ozgur Serin
+Elizabeth School of London - Bath Spa University
+
+This project is developed as part of an academic submission and is intended strictly for educational use only.
+
+Permission is granted to the instructors and assessors of Bath Spa University to use, review, and evaluate this software for assessment purposes.
+
+Redistribution, reproduction, or commercial use of this software or its components is not permitted without prior written permission from the developer.
+
+The software is provided "as is", without warranty of any kind, express or implied.
+
+Developer Contact: Ozgur Serin

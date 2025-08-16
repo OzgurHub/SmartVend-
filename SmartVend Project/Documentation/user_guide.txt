@@ -1,0 +1,16 @@
+SmartVend++ User Guide
+
+Welcome to the SmartVend++ Vending Machine!
+
+Steps to use:
+1. Launch the application from your terminal or IDE.
+2. The main menu will show a list of available items.
+3. Choose an item by typing its ID number.
+4. If applicable, respond to product suggestions (e.g. biscuit with coffee).
+5. Select your payment method: Contactless Card or Cash.
+6. If using card, enter 16-digit number, expiry, and CVV.
+7. If using cash, insert an amount greater than the final price.
+8. Receive your item, and any change if applicable.
+9. You can then choose to make another purchase or exit.
+
+Discount: A 10% discount is automatically applied to all purchases.
